@@ -12,4 +12,6 @@
 ## Live data
 ## Material Design
 
-![](https://user-images.githubusercontent.com/59257905/108929622-11e96580-764d-11eb-9322-8a6df99f637b.png)
+<p align="center">
+  <img width="460" height="300" src="https://user-images.githubusercontent.com/59257905/108930036-d69b6680-764d-11eb-81fb-c0f32b2bb0da.png">
+</p>
