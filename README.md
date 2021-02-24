@@ -13,5 +13,5 @@
 ## Material Design
 
 <p align="center">
-  <img width="460" height="300" src="https://user-images.githubusercontent.com/59257905/108930036-d69b6680-764d-11eb-81fb-c0f32b2bb0da.png">
+  <img width="460" height="700" src="https://user-images.githubusercontent.com/59257905/108930036-d69b6680-764d-11eb-81fb-c0f32b2bb0da.png">
 </p>
