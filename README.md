@@ -5,12 +5,13 @@
 
 # This by Using
 
-## Room database.
-## MVVM architecture.
-## intuit , ssp – sdp (design fit all screens).
-## Tosty
-## Live data
-## Material Design
+#### Room database.
+#### MVVM architecture.
+#### AsyncTask.
+#### intuit , ssp – sdp (design fit all screens).
+#### Tosty.
+#### Live data.
+#### Material Design.
 
 <p align="center">
   <img width="250" height="550" src="https://user-images.githubusercontent.com/59257905/108930036-d69b6680-764d-11eb-81fb-c0f32b2bb0da.png">        <img width="250" height="550" src="https://user-images.githubusercontent.com/59257905/108930694-10b93800-764f-11eb-8fa1-9939a4fe1464.png">             
