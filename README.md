@@ -13,9 +13,9 @@
 #### Live data.
 #### Material Design.
 
-<p align="center">
+
   <img width="250" height="500" src="https://user-images.githubusercontent.com/59257905/108930036-d69b6680-764d-11eb-81fb-c0f32b2bb0da.png">        <img width="250" height="500" src="https://user-images.githubusercontent.com/59257905/108930694-10b93800-764f-11eb-8fa1-9939a4fe1464.png">             
-</p>
+
 
 <p align="center">
   <img width="250" height="500" src="https://user-images.githubusercontent.com/59257905/108930765-33e3e780-764f-11eb-9dae-3fb45ee0ece8.png">        <img width="250" height="500" src="https://user-images.githubusercontent.com/59257905/108930836-3f371300-764f-11eb-996b-721f6d77dc2d.png">             
